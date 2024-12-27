@@ -1,0 +1,10 @@
+[2023-10-11 13:27:47] [f.lieutaud] Executed: DISM /Online /Cleanup-image /CheckHealth
+[2023-10-11 13:31:19] [f.lieutaud] Executed: DISM /Online /Cleanup-image /ScanHealth
+[2023-10-11 13:34:38] [f.lieutaud] Executed: DISM /Online /Cleanup-image /RestoreHealth
+[2023-10-11 13:39:04] [f.lieutaud] Executed: sfc /scannow
+[2023-10-11 13:39:35] [f.lieutaud] Executed: chkdsk C /r
+[2023-10-11 13:40:04] [f.lieutaud] Executed: chkdsk C: /r
+[2023-10-11 13:40:13] [f.lieutaud] Executed: ipconfig /flushdns
+[2023-10-11 13:40:29] [f.lieutaud] User exited the script.
+[2023-10-11 17:31:03] [f.lieutaud] Executed: chkdsk C: /r
+[2023-10-11 17:32:21] [f.lieutaud] Executed: chkdsk C: /r
